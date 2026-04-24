@@ -4,7 +4,7 @@
     "isNativeAdEnabled": true,
     "isFeedNativeAdEnabled": true,
     "isAppOpenAdEnabled": true,
-    "showTestAds": false,
+    "showTestAds": true,
     "canShowAds": true,
     "isNativeOrBannerType": 3,
     "isInterstitialOrRewardType": 1,
