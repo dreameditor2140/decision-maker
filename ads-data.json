@@ -5,7 +5,7 @@
     "isFeedNativeAdEnabled": true,
     "isAppOpenAdEnabled": true,
     "showTestAds": true,
-    "canShowAds": false,
+    "canShowAds": true,
     "isNativeOrBannerType": 3,
     "isInterstitialOrRewardType": 1,
     "minTimeBetweenInterstitialAds": 10,
