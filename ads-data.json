@@ -1,5 +1,6 @@
 {
     "isBannerAdEnabled": true,
+    "isRewardAdEnabled": false,
     "isInterstitialAdEnabled": true,
     "isNativeAdEnabled": true,
     "isFeedNativeAdEnabled": true,
@@ -21,5 +22,5 @@
     "productionInterstitialAdId": "ca-app-pub-5085328182214644/1558134994",
     "productionNativeAdId": "ca-app-pub-5085328182214644/2536174744",
     "productionRewardAdId": "ca-app-pub-5085328182214644/8509722005",
-    "productionAppOpenAdId": ""
+    "productionAppOpenAdId": "ca-app-pub-5085328182214644/4319988148"
 }
