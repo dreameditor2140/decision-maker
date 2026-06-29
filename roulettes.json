@@ -5,25 +5,33 @@
     "options": [
       {
         "label": "Truth 😇",
-        "colorValue": 4282212825
+        "colorValue": 4282216921
       },
       {
         "label": "Dare 😈",
-        "colorValue": 4293394430
+        "colorValue": 4293348412
       }
     ]
   },
   {
-    "id": "seed_weekend_plan",
-    "name": "Weekend Plan",
+    "id": "seed_weekend_vibes",
+    "name": "Weekend vibe?",
     "options": [
       {
-        "label": "Movie",
-        "colorValue": 4282549744
+        "label": "Netflix + Chill 🍿",
+        "colorValue": 4283075536
       },
       {
-        "label": "Trip",
-        "colorValue": 4289379276
+        "label": "Trip 🚗",
+        "colorValue": 4286192764
+      },
+      {
+        "label": "Gaming 🎮",
+        "colorValue": 4279670917
+      },
+      {
+        "label": "Sleep 😴",
+        "colorValue": 4293326370
       }
     ]
   }
