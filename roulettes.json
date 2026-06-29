@@ -1,0 +1,30 @@
+[
+  {
+    "id": "seed_truth_dare",
+    "name": "Truth or Dare",
+    "options": [
+      {
+        "label": "Truth 😇",
+        "colorValue": 4282212825
+      },
+      {
+        "label": "Dare 😈",
+        "colorValue": 4293394430
+      }
+    ]
+  },
+  {
+    "id": "seed_weekend_plan",
+    "name": "Weekend Plan",
+    "options": [
+      {
+        "label": "Movie",
+        "colorValue": 4282549744
+      },
+      {
+        "label": "Trip",
+        "colorValue": 4289379276
+      }
+    ]
+  }
+]
