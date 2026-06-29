@@ -34,5 +34,291 @@
         "colorValue": 4293326370
       }
     ]
+  },
+  {
+    "id": "seed_love_or_no_love",
+    "name": "Love or No Love?",
+    "options": [
+      {
+        "label": "Loves a Lot! ❤️",
+        "colorValue": 4294901760
+      },
+      {
+        "label": "No Love 💔",
+        "colorValue": 4283782485
+      },
+      {
+        "label": "Likes Me 😊",
+        "colorValue": 4283215696
+      },
+      {
+        "label": "In Love with Other 💘",
+        "colorValue": 4289439414
+      }
+    ]
+  },
+  {
+    "id": "seed_movie_night",
+    "name": "Movie Night 🎬",
+    "options": [
+      {
+        "label": "Action 💥",
+        "colorValue": 4294924066
+      },
+      {
+        "label": "Adventure 🏕️",
+        "colorValue": 4281558681
+      },
+      {
+        "label": "Animation 🎨",
+        "colorValue": 4291611852
+      },
+      {
+        "label": "Comedy 😂",
+        "colorValue": 4293326370
+      },
+      {
+        "label": "Crime 🕵️",
+        "colorValue": 4282549748
+      },
+      {
+        "label": "Documentary 🎥",
+        "colorValue": 4279682885
+      },
+      {
+        "label": "Drama 🎭",
+        "colorValue": 4287090411
+      },
+      {
+        "label": "Family 👨‍👩‍👧",
+        "colorValue": 4284506208
+      },
+      {
+        "label": "Fantasy 🧙",
+        "colorValue": 4286192764
+      },
+      {
+        "label": "History 📜",
+        "colorValue": 4284782280
+      },
+      {
+        "label": "Horror 👻",
+        "colorValue": 4283782485
+      },
+      {
+        "label": "Musical 🎤",
+        "colorValue": 4294940672
+      },
+      {
+        "label": "Mystery 🔍",
+        "colorValue": 4284612846
+      },
+      {
+        "label": "Romance ❤️",
+        "colorValue": 4294901760
+      },
+      {
+        "label": "Sci-Fi 🚀",
+        "colorValue": 4283215696
+      },
+      {
+        "label": "Sports ⚽",
+        "colorValue": 4280391411
+      },
+      {
+        "label": "Superhero 🦸",
+        "colorValue": 4291631616
+      },
+      {
+        "label": "Thriller 😱",
+        "colorValue": 4289449455
+      },
+      {
+        "label": "War ⚔️",
+        "colorValue": 4281479730
+      },
+      {
+        "label": "Western 🤠",
+        "colorValue": 4287418292
+      },
+      {
+        "label": "Zombie 🧟",
+        "colorValue": 4281552750
+      },
+      {
+        "label": "Anime 🌸",
+        "colorValue": 4289057495
+      },
+      {
+        "label": "K-Drama 🇰🇷",
+        "colorValue": 4293321450
+      },
+      {
+        "label": "Biopic 🌟",
+        "colorValue": 4285238819
+      },
+      {
+        "label": "Random 🎲",
+        "colorValue": 4286611584
+      }
+    ]
+  },
+  {
+    "id": "seed_days_of_week",
+    "name": "Days of the Week 📅",
+    "options": [
+      {
+        "label": "Monday 😴",
+        "colorValue": 4283215696
+      },
+      {
+        "label": "Tuesday 🚀",
+        "colorValue": 4294924066
+      },
+      {
+        "label": "Wednesday 💪",
+        "colorValue": 4286192764
+      },
+      {
+        "label": "Thursday 📚",
+        "colorValue": 4282549748
+      },
+      {
+        "label": "Friday 🎉",
+        "colorValue": 4294901760
+      },
+      {
+        "label": "Saturday 🍕",
+        "colorValue": 4289449455
+      },
+      {
+        "label": "Sunday ☀️",
+        "colorValue": 4293326370
+      }
+    ]
+  },
+  {
+    "id": "seed_months_of_year",
+    "name": "Months of the Year 📅",
+    "options": [
+      {
+        "label": "January ❄️",
+        "colorValue": 4283215696
+      },
+      {
+        "label": "February ❤️",
+        "colorValue": 4294901760
+      },
+      {
+        "label": "March 🌸",
+        "colorValue": 4289057495
+      },
+      {
+        "label": "April 🌦️",
+        "colorValue": 4286192764
+      },
+      {
+        "label": "May ☀️",
+        "colorValue": 4294924066
+      },
+      {
+        "label": "June 🌴",
+        "colorValue": 4281558681
+      },
+      {
+        "label": "July 🍉",
+        "colorValue": 4293326370
+      },
+      {
+        "label": "August 🌻",
+        "colorValue": 4291611852
+      },
+      {
+        "label": "September 🍂",
+        "colorValue": 4285238819
+      },
+      {
+        "label": "October 🎃",
+        "colorValue": 4283782485
+      },
+      {
+        "label": "November 🦃",
+        "colorValue": 4287418292
+      },
+      {
+        "label": "December 🎄",
+        "colorValue": 4289449455
+      }
+    ]
+  },
+  {
+    "id": "seed_viral_challenge",
+    "name": "Viral Challenge 🚀",
+    "options": [
+      {
+        "label": "Send a Meme 😂",
+        "colorValue": 4294924066
+      },
+      {
+        "label": "Take a Selfie 🤳",
+        "colorValue": 4294901760
+      },
+      {
+        "label": "Dance 15 Sec 💃",
+        "colorValue": 4289057495
+      },
+      {
+        "label": "Call a Friend 📞",
+        "colorValue": 4283215696
+      },
+      {
+        "label": "Text Your Crush 😳",
+        "colorValue": 4289449455
+      },
+      {
+        "label": "Drink Water 💧",
+        "colorValue": 4286192764
+      },
+      {
+        "label": "Touch Grass 🌿",
+        "colorValue": 4281558681
+      },
+      {
+        "label": "Post a Story 📸",
+        "colorValue": 4293326370
+      },
+      {
+        "label": "Sing a Song 🎤",
+        "colorValue": 4285238819
+      },
+      {
+        "label": "Do 10 Squats 🏋️",
+        "colorValue": 4282549748
+      },
+      {
+        "label": "Funny Face 🤪",
+        "colorValue": 4291611852
+      },
+      {
+        "label": "Compliment Someone 💖",
+        "colorValue": 4287418292
+      },
+      {
+        "label": "Tell a Joke 😆",
+        "colorValue": 4283782485
+      },
+      {
+        "label": "Speak in Emoji 😅",
+        "colorValue": 4286611584
+      },
+      {
+        "label": "No Phone 10 Min 📵",
+        "colorValue": 4284506208
+      },
+      {
+        "label": "Free Spin 🔄",
+        "colorValue": 4279682885
+      }
+    ]
   }
 ]
